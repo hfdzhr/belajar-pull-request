@@ -5,3 +5,4 @@
 4. Menambah commit ke 4
 5. Menambah commit ke 5
 6. Wkwkwkw
+7. Bingung mau nambah apa ???
